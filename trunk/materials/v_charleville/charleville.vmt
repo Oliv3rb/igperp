@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "v_charleville/charleville"
+	"$bumpmap" 	"v_charleville/charleville_normal"
+	"$envmap" "env_cubemap" 
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1" 
+	"$envmaptint" "[ 0.20 0.20 0.20 ]"
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sleeves/sleeve_british"
+	"$bumpmap" "sleeves/sleeve_british_normal.vtf"
+}
