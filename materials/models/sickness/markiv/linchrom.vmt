@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/markiv/linchrom"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1 1 1]"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+	
+	
+	
+}

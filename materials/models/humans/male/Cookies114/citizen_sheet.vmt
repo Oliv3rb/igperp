@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Male/Cookies114/citizen_sheet"
+	"$bumpmap" "models/Humans/Male/Cookies114/citizen_sheet_normal"
+	"$halflambert" 1
+}

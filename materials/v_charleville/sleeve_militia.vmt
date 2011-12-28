@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sleeves/sleeve_militia"
+	"$bumpmap" "sleeves/sleeve_nobutton_normal.vtf"
+}

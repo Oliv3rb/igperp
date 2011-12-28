@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/elise/0000"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+}
