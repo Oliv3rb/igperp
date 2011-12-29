@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\stoke spas12\rec"
+	"$envmap" "env_cubemap"
+	"$bumpmap" 	"models\weapons\v_models\stoke spas12\rec-n"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.8 0.8 0.8]"
+}
